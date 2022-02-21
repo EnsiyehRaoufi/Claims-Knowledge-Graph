@@ -19,6 +19,8 @@ The data is extracted from Claim Explorer are contained in three files:
 * claimskg_mixture.csv - contains 10000 Mixture claims and metadata about each claim (text, date, author, keywords, source, etc.)
 * claimskg_true.csv - contains 4404 True claims and metadata about each claim (text, date, author, keywords, source, etc.)
 
+I've uploaded these three files in the Data folder in this directory.
+
 
 Each of these 3 csv files contains below features:
 
